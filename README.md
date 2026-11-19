@@ -1,8 +1,8 @@
 # SOLMAR — Sun Coast Stories
 
-![make.fun](https://make.fun/badge/gta6-01.svg)
-![rank](https://make.fun/badge/gta6-01/danzturuu51/gta6-01/rank.svg)
-![reward](https://make.fun/badge/gta6-01/danzturuu51/gta6-01/reward.svg)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/danzturuu51/gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/danzturuu51/gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 A 3D open-world crime game in the spirit of GTA 6, built with three.js — no
 assets from any commercial game. Everything is original: the city, the
@@ -66,3 +66,7 @@ HUD, a three-star police chase, and a mission on foot.
 - Source split by job: `world`/`city` (layout + meshes), `vehicles`,
   `traffic`, `pedestrians`, `police`, `missions`, `combat`, `hud`,
   `audio`, `input`, `render`, `shots`, `main`
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
